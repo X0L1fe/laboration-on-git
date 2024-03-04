@@ -1,0 +1,6 @@
+c:\users\ильич\documents\visual studio 2015\Projects\laboration-on-git\laboration-on-git\bin\Debug\laboration-on-git.exe.config
+C:\Users\ильич\Documents\Visual Studio 2015\Projects\laboration-on-git\laboration-on-git\obj\Debug\laboration-on-git.csprojResolveAssemblyReference.cache
+C:\Users\ильич\Documents\Visual Studio 2015\Projects\laboration-on-git\laboration-on-git\bin\Debug\laboration-on-git.exe
+C:\Users\ильич\Documents\Visual Studio 2015\Projects\laboration-on-git\laboration-on-git\bin\Debug\laboration-on-git.pdb
+C:\Users\ильич\Documents\Visual Studio 2015\Projects\laboration-on-git\laboration-on-git\obj\Debug\laboration-on-git.exe
+C:\Users\ильич\Documents\Visual Studio 2015\Projects\laboration-on-git\laboration-on-git\obj\Debug\laboration-on-git.pdb
